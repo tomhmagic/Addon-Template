@@ -1,0 +1,19 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "RPNAME Resource Pack",
+    "name": "RPNAME RP",
+    "uuid": "6176ff25-f47d-4389-9a4b-ea8d2e787571",
+    "pack_scope": "world",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 100]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "fd2906bf-4e4c-4b98-8f41-ad7713fd279d",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": { "product_type": "addon" }
+}

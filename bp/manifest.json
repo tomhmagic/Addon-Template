@@ -1,0 +1,28 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "BPNAME Behavior Pack",
+    "name": "BPNAME BP",
+    "uuid": "7eb4ae19-7bd0-4c67-ad75-9eefffcd766b",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 100]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "6e99ca9b-095a-46cb-aee9-d4a481f98e97",
+      "version": [1, 0, 0]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "entry": "main.js",
+      "uuid": "f98ea5ca-e2ac-4fe9-8b37-697b8c11c4fc",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    { "module_name": "@minecraft/server", "version": "2.1.0" },
+    { "module_name": "@minecraft/server-ui", "version": "2.0.0" }
+  ]
+}
