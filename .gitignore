@@ -1,0 +1,8 @@
+# Ignore node modules
+node_modules/
+
+# npm package lock file
+/package-lock.json
+
+/config.json
+/.gitignore
