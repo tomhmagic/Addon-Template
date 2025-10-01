@@ -10,7 +10,6 @@ It also automatically copies the packs into the correct Minecraft `com.mojang` d
 You must have a recent version of [Npm and Node](https://nodejs.org/en) installed to run this project.  
 Npm is usually installed alongside Node.
 
----
 
 ---
 

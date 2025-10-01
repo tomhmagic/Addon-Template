@@ -1,3 +1,1 @@
-import { world } from '@minecraft/server';
-
-world.sendMessage("Hello World!");
+//Start your code here
